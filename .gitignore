@@ -20,3 +20,6 @@ Thumbs.db
 
 # IDE
 .vscode/
+
+# Database - we don't commit local db files
+backend/dev.db
